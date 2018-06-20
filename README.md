@@ -1,1 +1,1 @@
-# danyarmo.github.io
+# danyarmo.com
