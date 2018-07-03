@@ -8,3 +8,13 @@ h2 {
   color: teal;
   font-family: cursive;
 }
+body {
+  background-color: #e0e0e0;
+}
+.whole {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translate(-50%);
+  text-align: center;
+}
