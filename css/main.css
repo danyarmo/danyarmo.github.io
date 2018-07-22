@@ -13,9 +13,7 @@ body {
   background-color: #e0e0e0;
 }
 .whole {
-  position: absolute;
-  left: 50%;
-  top: 35%;
+  align="center";
   transform: translateX(-50%) translateY(-50%);
 }
 img {
