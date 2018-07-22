@@ -15,7 +15,7 @@ body {
 .whole {
   position: absolute;
   left: 50%;
-  top: 35%
+  top: 35%;
   transform: translateX(-50%) translateY(-50%);
 }
 img {
